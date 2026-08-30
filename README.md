@@ -2,9 +2,6 @@
 
 Uma calculadora de idade visual e interativa desenvolvida em Python com Tkinter e bibliotecas auxiliares para manipulação de datas. Permite calcular a diferença entre duas datas (por exemplo, data atual e data de nascimento) e exibe o resultado em anos, meses e dias.
 
-![Tela da calculadora](screenshot.png)
-*(Adicione um print da aplicação como "screenshot.png" na pasta do projeto.)*
-
 ---
 
 ## 🖥️ Sobre o projeto
